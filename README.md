@@ -51,6 +51,7 @@ __In my developments I always try to apply the concepts of clean code, clean arc
 
 [![profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenrySaldanha&theme=default)](#)
 [![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HenrySaldanha&theme=default)](#)
+[![profile status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenrySaldanha&theme=default)](#)
 
 ## How to find me :raising_hand: ##
 
