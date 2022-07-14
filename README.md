@@ -46,6 +46,7 @@ __In my developments I always try to apply the concepts of clean code, clean arc
 [![UML](https://img.shields.io/static/v1?style=for-the-badge&message=UML&color=222222&logo=Leanpub&logoColor=FFFFFF&label=)](#)
 [![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=)](#)
 [![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=4053D6&logo=Docker&logoColor=FFFFFF&label=)](#)
+[![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=32A852&logo=MongoDB&logoColor=FFFFFF&label=)](#)
 
 ## GitHub statistics  :bar_chart: ##
 
